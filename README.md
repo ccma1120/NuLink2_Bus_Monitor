@@ -28,7 +28,6 @@ SPI
 ![](../../../Nuvoton_Tools/blob/master/img/spi_monitor.png)  
 RS485  
 ![](../../../Nuvoton_Tools/blob/master/img/rs485_monitor.png)  
-Data Only HEX (00-FF)  
 CAN  
 ![](../../../Nuvoton_Tools/blob/master/img/can_monitor.png)  
 
