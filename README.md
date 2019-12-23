@@ -24,7 +24,7 @@ Current settings:
 ### output
 I2C  
 ![](../../../Nuvoton_Tools/blob/master/img/i2c_monitor.png)  
-SPI  
+SPI (Low Byte : MOSI, High Byte: MISO)  
 ![](../../../Nuvoton_Tools/blob/master/img/spi_monitor.png)  
 RS485  
 ![](../../../Nuvoton_Tools/blob/master/img/rs485_monitor.png)  
