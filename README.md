@@ -22,7 +22,7 @@ Current settings:
 ![](../../../Nuvoton_Tools/blob/master/img/bus_monitor_pins.png)  
 
 ### output
-I2C  
+I2C (S: Start, N: Nack, P: Stop)  
 ![](../../../Nuvoton_Tools/blob/master/img/i2c_monitor.png)  
 SPI (Low Byte : MOSI, High Byte: MISO)  
 ![](../../../Nuvoton_Tools/blob/master/img/spi_monitor.png)  
