@@ -1,6 +1,6 @@
 # NuLink2_Bus_Monitor
 ### connection
-![img](../../../Nuvoton_Tools/blob/master/img/bus_monitor_connect_uart.PNG)
+![img](../../../Nuvoton_Tools/blob/master/img/bus_monitor_connect_uart.png)
 
 ### operation screen
 ![img](../../../Nuvoton_Tools/blob/master/img/bus_monitor_wsg.png)
