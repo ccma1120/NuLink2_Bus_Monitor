@@ -6,6 +6,9 @@
 ![img](../../../Nuvoton_Tools/blob/master/img/bus_monitor_wsg.png)
 
 ### configuration
+Default configuration is to monitor bus data of NuLink2_ISP_Bridge.
+If you would like to monitor (SPI/I2C/RS485/CAN) bus of other system, the (SPI/I2C/RS485/CAN) init function need to be changed.
+Current settings:
 - SPI Bus Mode 0，Bit Length 8
 - RS485 Bus Baud Rate 115200
 - CAN Bus Baud Rate 500K
@@ -16,7 +19,7 @@
 - RS485 (PIN 9, 10)
 - CAN (PIN 11, 12)
 - GND (PIN 18, 20)
-![](../../../Nuvoton_Tools/blob/master/img/bus_monitor_pins.png)
+![](../../../Nuvoton_Tools/blob/master/img/bus_monitor_pins.png)  
 
 ### output
 I2C  
@@ -31,8 +34,8 @@ CAN
 
 
 Support CAN ID
-STD (11 bit ID HEX, 0~7FF)
-EXT (29 bit ID HEX)
-DLC means Data length
-DATA, HEX (0000 - FFFF)
+STD (11 bit ID HEX, 0~7FF)  
+EXT (29 bit ID HEX)  
+DLC means Data length  
+DATA, HEX (0000 - FFFF)  
 
